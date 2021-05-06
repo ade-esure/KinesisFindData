@@ -7,4 +7,3 @@ where 1=1
   and partition_date >= '2021-01-08'
 
 
-SELECT * from messageId
